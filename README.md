@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce](https://github.com/Danny944/Ecommerce-node-mongodb)
+- 🔭 I’m currently working on [E-commerce](https://github.com/Danny944/HouseOne)
 
-- 🌱 I’m currently learning **Nodejs, Docker, Typescript**
+- 🌱 I’m currently learning **Docker, Typescript**
 
 - 💬 Ask me about **Rest API's, PowerBi, Python**
 
